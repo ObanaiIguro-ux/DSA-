@@ -7,5 +7,6 @@ class Solution:
 
             if complement in hashmap:
                 return[hashmap[complement], i]
+            
             #Store the current number and its index of nums in hashmap
             hashmap[nums[i]] = i
