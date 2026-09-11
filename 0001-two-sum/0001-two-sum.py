@@ -6,7 +6,6 @@ class Solution:
             complement = target - nums[i]
 
             if complement in hashmap:
-                return[hashmap[complement], i]
-            
-            #Store the current number and its index of nums in hashmap
+                return [hashmap[complement], i]
+            #store the current number and index in hashmap from nums
             hashmap[nums[i]] = i
