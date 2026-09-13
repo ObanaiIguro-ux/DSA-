@@ -13,7 +13,7 @@ class Solution:
             counts[ord(char) - ord('a')] += 1
         for char in t:
             counts[ord(char) - ord('a')] -= 1
-
+        #checks if any negative/positive value present or not
         for count in counts:
             if count!= 0:
                 return False
