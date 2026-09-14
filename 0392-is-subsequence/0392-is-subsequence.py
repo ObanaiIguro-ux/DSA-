@@ -1,11 +1,6 @@
-class Solution(object):
-    def isSubsequence(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        p1,p2 = 0,0
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        p1, p2 = 0,0
 
         while p1<len(s) and p2<len(t):
             if s[p1] == t[p2]:
