@@ -6,6 +6,7 @@ hello everyone
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
@@ -20,6 +21,7 @@ hello everyone
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0217-contains-duplicate) |
@@ -36,6 +38,7 @@ hello everyone
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
