@@ -27,6 +27,7 @@ hello everyone
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0238-product-of-array-except-self) |
@@ -51,6 +52,7 @@ hello everyone
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
