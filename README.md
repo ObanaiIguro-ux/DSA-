@@ -19,6 +19,7 @@ hello everyone
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ hello everyone
 | [0217-contains-duplicate](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -93,5 +95,6 @@ hello everyone
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
