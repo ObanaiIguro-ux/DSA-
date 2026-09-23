@@ -10,8 +10,8 @@ class Solution:
 
         #traverse as long as fast and its nxt node are not NULL
         while fast!=None and fast.next!=None:
-            slow = slow.next #slow 1 step
-            fast = fast.next.next #fast 2 step
+            slow = slow.next #slow move 1 step
+            fast = fast.next.next #fast moves 2 steps
 
         #loop ends, slow pointer will be at middle of the list
         return slow
