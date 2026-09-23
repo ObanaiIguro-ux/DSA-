@@ -11,6 +11,7 @@ hello everyone
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -100,4 +101,8 @@ hello everyone
 | [0003-longest-substring-without-repeating-characters](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
