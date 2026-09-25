@@ -19,6 +19,7 @@ hello everyone
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
@@ -121,4 +122,12 @@ hello everyone
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
