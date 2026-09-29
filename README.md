@@ -8,6 +8,7 @@ hello everyone
 | ------- |
 | [0011-container-with-most-water](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -111,6 +112,7 @@ hello everyone
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0142-linked-list-cycle-ii) |
