@@ -36,6 +36,7 @@ hello everyone
 | [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ hello everyone
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0704-binary-search) |
 ## Trie
