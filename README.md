@@ -160,6 +160,7 @@ hello everyone
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ hello everyone
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@ hello everyone
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -200,4 +203,12 @@ hello everyone
 | [0100-same-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0226-invert-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
