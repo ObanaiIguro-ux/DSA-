@@ -35,6 +35,7 @@ hello everyone
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -227,4 +228,8 @@ hello everyone
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
