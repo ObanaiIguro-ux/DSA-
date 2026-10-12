@@ -23,6 +23,7 @@ hello everyone
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
@@ -37,6 +38,7 @@ hello everyone
 | [0033-search-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -172,6 +174,7 @@ hello everyone
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -232,4 +235,9 @@ hello everyone
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
