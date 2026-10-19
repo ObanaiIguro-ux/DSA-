@@ -26,6 +26,7 @@ hello everyone
 | [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
@@ -118,6 +119,7 @@ hello everyone
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ hello everyone
 | [0100-same-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -256,6 +259,7 @@ hello everyone
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
 |  |
