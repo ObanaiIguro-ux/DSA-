@@ -24,6 +24,7 @@ hello everyone
 | [0014-longest-common-prefix](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0208-implement-trie-prefix-tree) |
