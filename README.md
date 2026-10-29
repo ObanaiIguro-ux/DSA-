@@ -80,6 +80,7 @@ hello everyone
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0392-is-subsequence) |
@@ -274,4 +275,12 @@ hello everyone
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
