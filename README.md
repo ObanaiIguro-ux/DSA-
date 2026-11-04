@@ -116,6 +116,7 @@ hello everyone
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0704-binary-search) |
@@ -278,9 +279,14 @@ hello everyone
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ObanaiIguro-ux/DSA-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
